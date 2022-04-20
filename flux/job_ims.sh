@@ -21,10 +21,9 @@ echo "job start time" `date +'%Y%m%d %H:%M:%S'` >> $output/time.log
 cp $0 $output
 cp $prefix/config/system.dry.prmtop .
 cp $prefix/config/atom_group.dat .
-cp $prefix/config/md.crd.nc .
-cp $prefix/config/md.vel.nc .
-# Change flux(write) data path to write data into slow disk directory
-sed -e "s#flux.nc#${output}/flux.nc#" $prefix/config/flux.cfg > flux.cfg
+ln -s $prefix/config/md.crd.nc .
+ln -s $prefix/config/md.vel.nc .
+cp $prefix/config/flux.cfg .
 cp $prefix/config/group_pair.dat .
 
 echo "copy end time " `date +'%Y%m%d %H:%M:%S'` >> $output/time.log
