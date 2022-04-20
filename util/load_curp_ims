@@ -1,0 +1,16 @@
+eval "$($HOME/miniconda3/bin/conda shell.bash hook)"
+conda activate test_curp_v1
+
+# How to reproduce
+# conda create -n test_curp_v1 python=2.7
+# conda activate test_curp_v1
+# conda install pygraphviz
+# pip install numpy
+# pip install configparser
+# pip install netcdf4==1.2.4
+# pip install curp
+
+# $ module list
+# Currently Loaded Modulefiles:
+#   1) intel_parallelstudio/2018update4   2) allinea/7.1                        3) cuda/11.1
+

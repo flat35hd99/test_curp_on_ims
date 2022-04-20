@@ -1,0 +1,1 @@
+../../../../gu5/yamato/hp36s/4nve/data00_0/stripped0-200.crd.nc

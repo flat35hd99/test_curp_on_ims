@@ -1,0 +1,275 @@
+# residue pair within 6.00
+# itraj =  1
+# itraj =  2
+# itraj =  3
+# itraj =  4
+# itraj =  5
+# itraj =  6
+# itraj =  7
+# itraj =  8
+# itraj =  9
+# itraj =  10
+# itraj =  11
+# itraj =  12
+# itraj =  13
+# itraj =  14
+# itraj =  15
+# itraj =  16
+# itraj =  17
+# itraj =  18
+# itraj =  19
+# itraj =  20
+# itraj =  21
+# itraj =  22
+# itraj =  23
+# itraj =  24
+# itraj =  25
+# itraj =  26
+# itraj =  27
+# itraj =  28
+# itraj =  29
+# itraj =  30
+# itraj =  31
+# itraj =  32
+# itraj =  33
+# itraj =  34
+# itraj =  35
+# itraj =  36
+# itraj =  37
+# itraj =  38
+# itraj =  39
+# itraj =  40
+# itraj =  41
+# itraj =  42
+# itraj =  43
+# itraj =  44
+# itraj =  45
+# itraj =  46
+# itraj =  47
+# itraj =  48
+# itraj =  49
+# itraj =  50
+# itraj =  51
+# itraj =  52
+# itraj =  53
+# itraj =  54
+# itraj =  55
+# itraj =  56
+# itraj =  57
+# itraj =  58
+# itraj =  59
+# itraj =  60
+# itraj =  61
+# itraj =  62
+# itraj =  63
+# itraj =  64
+# itraj =  65
+# itraj =  66
+# itraj =  67
+# itraj =  68
+# itraj =  69
+# itraj =  70
+# itraj =  71
+# itraj =  72
+# itraj =  73
+# itraj =  74
+# itraj =  75
+# itraj =  76
+# itraj =  77
+# itraj =  78
+# itraj =  79
+# itraj =  80
+# itraj =  81
+# itraj =  82
+# itraj =  83
+# itraj =  84
+# itraj =  85
+# itraj =  86
+# itraj =  87
+# itraj =  88
+# itraj =  89
+# itraj =  90
+# itraj =  91
+# itraj =  92
+# itraj =  93
+# itraj =  94
+# itraj =  95
+# itraj =  96
+# itraj =  97
+# itraj =  98
+# itraj =  99
+# itraj =  100
+# itraj =  101
+# itraj =  102
+# itraj =  103
+# itraj =  104
+# itraj =  105
+# itraj =  106
+# itraj =  107
+# itraj =  108
+# itraj =  109
+# itraj =  110
+# itraj =  111
+# itraj =  112
+# itraj =  113
+# itraj =  114
+# itraj =  115
+# itraj =  116
+# itraj =  117
+# itraj =  118
+# itraj =  119
+# itraj =  120
+# itraj =  121
+# itraj =  122
+# itraj =  123
+# itraj =  124
+# itraj =  125
+# itraj =  126
+# itraj =  127
+# itraj =  128
+# itraj =  129
+# itraj =  130
+# itraj =  131
+# itraj =  132
+# itraj =  133
+# itraj =  134
+# itraj =  135
+# itraj =  136
+# itraj =  137
+# itraj =  138
+# itraj =  139
+# itraj =  140
+# itraj =  141
+# itraj =  142
+# itraj =  143
+# itraj =  144
+# itraj =  145
+# itraj =  146
+# itraj =  147
+# itraj =  148
+# itraj =  149
+# itraj =  150
+# itraj =  151
+# itraj =  152
+# itraj =  153
+# itraj =  154
+# itraj =  155
+# itraj =  156
+# itraj =  157
+# itraj =  158
+# itraj =  159
+# itraj =  160
+# itraj =  161
+# itraj =  162
+# itraj =  163
+# itraj =  164
+# itraj =  165
+# itraj =  166
+# itraj =  167
+# itraj =  168
+# itraj =  169
+# itraj =  170
+# itraj =  171
+# itraj =  172
+# itraj =  173
+# itraj =  174
+# itraj =  175
+# itraj =  176
+# itraj =  177
+# itraj =  178
+# itraj =  179
+# itraj =  180
+# itraj =  181
+# itraj =  182
+# itraj =  183
+# itraj =  184
+# itraj =  185
+# itraj =  186
+# itraj =  187
+# itraj =  188
+# itraj =  189
+# itraj =  190
+# itraj =  191
+# itraj =  192
+# itraj =  193
+# itraj =  194
+# itraj =  195
+# itraj =  196
+# itraj =  197
+# itraj =  198
+# itraj =  199
+# itraj =  200
+[00000_BCK]
+00000_BCK 00001_MET 00002_LEU 00003_SER 00004_ASP 00005_GLU 00006_ASP 00007_PHE 00008_LYS 00009_ALA 00010_VAL 00011_PHE 00012_GLY 00013_MET 00014_THR 00015_ARG 00016_SER 00017_ALA 00018_PHE 00019_ALA 00020_ASN 00021_LEU 00022_PRO 00023_LEU 00024_TRP 00025_LYS 00026_GLN 00027_GLN 00028_ASN 00029_LEU 00030_LYS 00031_LYS 00032_GLU 00033_LYS 00034_GLY 00035_LEU 00036_PHE
+[00001_MET]
+00001_MET
+[00002_LEU]
+00002_LEU
+[00003_SER]
+00003_SER
+[00004_ASP]
+00004_ASP
+[00005_GLU]
+00005_GLU
+[00006_ASP]
+00006_ASP
+[00007_PHE]
+00007_PHE
+[00008_LYS]
+00008_LYS
+[00009_ALA]
+00009_ALA
+[00010_VAL]
+00010_VAL
+[00011_PHE]
+00011_PHE
+[00012_GLY]
+00012_GLY
+[00013_MET]
+00013_MET
+[00014_THR]
+00014_THR
+[00015_ARG]
+00015_ARG
+[00016_SER]
+00016_SER
+[00017_ALA]
+00017_ALA
+[00018_PHE]
+00018_PHE
+[00019_ALA]
+00019_ALA
+[00020_ASN]
+00020_ASN
+[00021_LEU]
+00021_LEU
+[00022_PRO]
+00022_PRO
+[00023_LEU]
+00023_LEU
+[00024_TRP]
+00024_TRP
+[00025_LYS]
+00025_LYS
+[00026_GLN]
+00026_GLN
+[00027_GLN]
+00027_GLN
+[00028_ASN]
+00028_ASN
+[00029_LEU]
+00029_LEU
+[00030_LYS]
+00030_LYS
+[00031_LYS]
+00031_LYS
+[00032_GLU]
+00032_GLU
+[00033_LYS]
+00033_LYS
+[00034_GLY]
+00034_GLY
+[00035_LEU]
+00035_LEU
+[00036_PHE]
+00036_PHE
